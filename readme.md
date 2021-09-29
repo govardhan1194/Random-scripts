@@ -5,3 +5,6 @@
 asdfasfgadfasf \
 adfadgadgasgasgasg \
 asgasgasgasgasgags
+
+
+[This is link](../testfolder/testfile.md)
